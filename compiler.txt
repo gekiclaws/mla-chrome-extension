@@ -1,0 +1,2 @@
+
+browserify popup.js -o new.js

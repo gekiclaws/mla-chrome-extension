@@ -1,6 +1,6 @@
 {
   "name": "MLA8 Citation Generator",
-  "version": "1.0.0",
+  "version": "0.0.0.1",
   "description": "Automatically create MLA8 style citations with this citation generator add-on for Chrome.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {

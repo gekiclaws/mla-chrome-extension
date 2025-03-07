@@ -1,5 +1,5 @@
 # mla-chrome-extension
-A Chrome extension to automatically cite websites in MLA 9 format. Includes special formatting for Chinese websites.
+A Chrome extension that generates instant MLA 8 citations with just one click. Uniquely solves the problem of correctly formatting Chinese website citations, which most citation tools struggle with.
 
 To install the extension:
 1. Click the "code" button and download ZIP
